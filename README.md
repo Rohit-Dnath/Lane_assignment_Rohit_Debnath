@@ -3,7 +3,7 @@
 A modern, responsive React-based dashboard for managing user data with advanced sorting and search capabilities.
 
 ## Live Deployed Link
-[User Management Dashboard](https://your-live-deployed-link.com)
+[User Management Dashboard](https://laneassignment.vercel.app/)
 
 ## Getting Started
 
