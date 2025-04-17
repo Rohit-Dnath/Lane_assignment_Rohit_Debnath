@@ -3,7 +3,7 @@
 A modern, responsive React-based dashboard for managing user data with advanced sorting and search capabilities.
 
 ## Live Deployed Link
-[User Management Dashboard](https://your-live-deployed-link.com)
+[User Management Dashboard](https://laneassignment.vercel.app/)
 
 ## Getting Started
 
@@ -31,10 +31,9 @@ This project is a take-home assignment provided by **Lane** for their internship
 
 ### Technical Specifications
 - **React**: Functional components and hooks.
-- **JSONPlaceholder API**: Data fetched from `https://jsonplaceholder.typicode.com/users` (implemented in [`useUsers`](src/hooks/useUsers.tsx)).
+- **JSONPlaceholder API**: Data fetched from `https://jsonplaceholder.typicode.com/users` (implemented in src/hooks/useUsers.tsx [`useUsers.tsx`](src/hooks/useUsers.tsx)).
 - **TypeScript**: Strongly typed components and hooks.
 - **Tailwind CSS**: For styling and responsive design.
-- **Framer Motion**: For animations.
 
 ### Things We Focused On
 - Semantic and accessible HTML markup.
