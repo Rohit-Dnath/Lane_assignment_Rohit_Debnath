@@ -87,7 +87,7 @@ export const UserTable = ({ users }: UserTableProps) => {
               </TableHead>
               <TableHead>
                 <SortableHeader
-                  label="Company"
+                  label="Company Name"
                   sortKey="company"
                   currentSort={sortConfig.key}
                   sortDirection={sortConfig.direction}
