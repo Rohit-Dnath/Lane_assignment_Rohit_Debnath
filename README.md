@@ -31,7 +31,7 @@ This project is a take-home assignment provided by **Lane** for their internship
 
 ### Technical Specifications
 - **React**: Functional components and hooks.
-- **JSONPlaceholder API**: Data fetched from `https://jsonplaceholder.typicode.com/users` (implemented in [`useUsers`](src/hooks/useUsers.tsx)).
+- **JSONPlaceholder API**: Data fetched from `https://jsonplaceholder.typicode.com/users` (implemented in src/hooks/useUsers.tsx [`useUsers.tsx`](src/hooks/useUsers.tsx)).
 - **TypeScript**: Strongly typed components and hooks.
 - **Tailwind CSS**: For styling and responsive design.
 - **Framer Motion**: For animations.
